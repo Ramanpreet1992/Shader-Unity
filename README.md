@@ -7,6 +7,5 @@ Contains:
 - Dissolve
 - Hologram
 
-Check out our [YouTube Channel](http://youtube.com/brackeys) for more tutorials.
-
-Everything is free to use, also commercially (public domain).
+Referred for the Shader and created scene ShaderObject
+[YouTube Channel](http://youtube.com/brackeys)
