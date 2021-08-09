@@ -1,5 +1,5 @@
-# Shader Graph Tutorials
-Project files for our tutorials on using Shader Graph in Unity.
+# Shader Graph
+Project files on using Shader Graph in Unity.
 
 Contains:
 
